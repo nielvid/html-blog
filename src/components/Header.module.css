@@ -1,0 +1,9 @@
+.navbar{
+    border:  1px solid blue;
+}
+
+nav {
+    display: flex;
+    color: white;
+    font-size: 18px;
+}
